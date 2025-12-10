@@ -1,0 +1,4 @@
+- pkg:pypi/boto3-pydantic-apprunner@0.4.1
+- pkg:pypi/boto3-pydantic-apprunner@1.0.0
+- pkg:pypi/boto3-pydantic-apprunner@1.0.1
+- pkg:pypi/boto3-pydantic-apprunner@1.0.2

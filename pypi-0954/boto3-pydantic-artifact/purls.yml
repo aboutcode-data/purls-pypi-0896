@@ -1,0 +1,4 @@
+- pkg:pypi/boto3-pydantic-artifact@0.4.1
+- pkg:pypi/boto3-pydantic-artifact@1.0.0
+- pkg:pypi/boto3-pydantic-artifact@1.0.1
+- pkg:pypi/boto3-pydantic-artifact@1.0.2
