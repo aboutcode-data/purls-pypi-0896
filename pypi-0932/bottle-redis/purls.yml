@@ -1,0 +1,4 @@
+- pkg:pypi/bottle-redis@0.1
+- pkg:pypi/bottle-redis@0.2
+- pkg:pypi/bottle-redis@0.2.1
+- pkg:pypi/bottle-redis@0.2.3
