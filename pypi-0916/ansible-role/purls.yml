@@ -1,0 +1,6 @@
+- pkg:pypi/ansible-role@0.21
+- pkg:pypi/ansible-role@0.22
+- pkg:pypi/ansible-role@0.23
+- pkg:pypi/ansible-role@0.24
+- pkg:pypi/ansible-role@0.25
+- pkg:pypi/ansible-role@0.26
