@@ -1,0 +1,16 @@
+- pkg:pypi/apipkg@1.0
+- pkg:pypi/apipkg@1.0b1
+- pkg:pypi/apipkg@1.0b4
+- pkg:pypi/apipkg@1.0b5
+- pkg:pypi/apipkg@1.0b6
+- pkg:pypi/apipkg@1.2
+- pkg:pypi/apipkg@1.3
+- pkg:pypi/apipkg@1.4
+- pkg:pypi/apipkg@1.5
+- pkg:pypi/apipkg@2.0.0
+- pkg:pypi/apipkg@2.0.1
+- pkg:pypi/apipkg@2.1.0
+- pkg:pypi/apipkg@2.1.1
+- pkg:pypi/apipkg@3.0.0
+- pkg:pypi/apipkg@3.0.1
+- pkg:pypi/apipkg@3.0.2
