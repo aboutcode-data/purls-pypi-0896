@@ -1,0 +1,4 @@
+- pkg:pypi/awscli-plugin-s3-proxy@0.2
+- pkg:pypi/awscli-plugin-s3-proxy@0.3
+- pkg:pypi/awscli-plugin-s3-proxy@0.4
+- pkg:pypi/awscli-plugin-s3-proxy@0.5

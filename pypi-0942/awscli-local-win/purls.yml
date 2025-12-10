@@ -1,0 +1,4 @@
+- pkg:pypi/awscli-local-win@0.23.0
+- pkg:pypi/awscli-local-win@0.24.0
+- pkg:pypi/awscli-local-win@0.25.0
+- pkg:pypi/awscli-local-win@0.26.0

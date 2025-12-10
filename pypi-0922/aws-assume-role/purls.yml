@@ -1,0 +1,4 @@
+- pkg:pypi/aws-assume-role@1.0.0
+- pkg:pypi/aws-assume-role@1.0.1
+- pkg:pypi/aws-assume-role@1.0.2
+- pkg:pypi/aws-assume-role@1.1.0
