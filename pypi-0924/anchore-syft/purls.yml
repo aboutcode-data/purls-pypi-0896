@@ -1,0 +1,5 @@
+- pkg:pypi/anchore-syft@0.75.0
+- pkg:pypi/anchore-syft@0.75.0.post0
+- pkg:pypi/anchore-syft@0.75.0.post1
+- pkg:pypi/anchore-syft@0.76.0
+- pkg:pypi/anchore-syft@1.18.1
