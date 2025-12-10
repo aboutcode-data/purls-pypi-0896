@@ -1,0 +1,8 @@
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.0.0
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.0.0rc1
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.0.1
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.0.1rc1
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.1.0
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.1.0rc1
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.1.1
+- pkg:pypi/apache-airflow-providers-daskexecutor@1.1.1rc2
