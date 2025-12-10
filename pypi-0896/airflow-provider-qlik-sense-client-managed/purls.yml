@@ -1,0 +1,5 @@
+- pkg:pypi/airflow-provider-qlik-sense-client-managed@0.0.1
+- pkg:pypi/airflow-provider-qlik-sense-client-managed@0.0.2
+- pkg:pypi/airflow-provider-qlik-sense-client-managed@0.0.3
+- pkg:pypi/airflow-provider-qlik-sense-client-managed@0.0.4
+- pkg:pypi/airflow-provider-qlik-sense-client-managed@0.0.5

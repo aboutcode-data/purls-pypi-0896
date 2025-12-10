@@ -1,0 +1,3 @@
+- pkg:pypi/airflow-providers-aliyun-rocketmq@0.1.1
+- pkg:pypi/airflow-providers-aliyun-rocketmq@0.1.2
+- pkg:pypi/airflow-providers-aliyun-rocketmq@0.1.3

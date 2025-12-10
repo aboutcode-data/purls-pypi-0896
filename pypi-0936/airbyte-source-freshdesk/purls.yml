@@ -1,0 +1,7 @@
+- pkg:pypi/airbyte-source-freshdesk@3.0.6
+- pkg:pypi/airbyte-source-freshdesk@3.0.7
+- pkg:pypi/airbyte-source-freshdesk@3.1.0
+- pkg:pypi/airbyte-source-freshdesk@3.1.0.dev202405221556
+- pkg:pypi/airbyte-source-freshdesk@3.1.1
+- pkg:pypi/airbyte-source-freshdesk@3.1.2
+- pkg:pypi/airbyte-source-freshdesk@3.1.3
