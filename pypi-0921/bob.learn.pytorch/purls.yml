@@ -1,0 +1,5 @@
+- pkg:pypi/bob.learn.pytorch@0.0.3
+- pkg:pypi/bob.learn.pytorch@0.0.5
+- pkg:pypi/bob.learn.pytorch@0.1.0
+- pkg:pypi/bob.learn.pytorch@0.1.2
+- pkg:pypi/bob.learn.pytorch@0.2.0
