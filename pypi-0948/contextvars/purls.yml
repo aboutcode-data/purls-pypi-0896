@@ -1,0 +1,6 @@
+- pkg:pypi/contextvars@1.0
+- pkg:pypi/contextvars@2.0
+- pkg:pypi/contextvars@2.1
+- pkg:pypi/contextvars@2.2
+- pkg:pypi/contextvars@2.3
+- pkg:pypi/contextvars@2.4
