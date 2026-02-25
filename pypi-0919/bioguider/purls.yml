@@ -41,6 +41,10 @@
 - pkg:pypi/bioguider@0.2.48
 - pkg:pypi/bioguider@0.2.49
 - pkg:pypi/bioguider@0.2.5
+- pkg:pypi/bioguider@0.2.50
+- pkg:pypi/bioguider@0.2.51
+- pkg:pypi/bioguider@0.2.52
+- pkg:pypi/bioguider@0.2.53
 - pkg:pypi/bioguider@0.2.6
 - pkg:pypi/bioguider@0.2.7
 - pkg:pypi/bioguider@0.2.8
