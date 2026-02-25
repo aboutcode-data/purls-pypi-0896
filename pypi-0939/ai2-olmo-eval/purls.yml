@@ -14,3 +14,5 @@
 - pkg:pypi/ai2-olmo-eval@0.8.4
 - pkg:pypi/ai2-olmo-eval@0.8.5
 - pkg:pypi/ai2-olmo-eval@0.8.6
+- pkg:pypi/ai2-olmo-eval@0.8.7
+- pkg:pypi/ai2-olmo-eval@0.9.0
