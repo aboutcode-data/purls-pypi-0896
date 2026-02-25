@@ -1,5 +1,6 @@
 - pkg:pypi/barcode-validator@2.0.0
 - pkg:pypi/barcode-validator@2.0.1
+- pkg:pypi/barcode-validator@2.0.10
 - pkg:pypi/barcode-validator@2.0.2
 - pkg:pypi/barcode-validator@2.0.3
 - pkg:pypi/barcode-validator@2.0.4
