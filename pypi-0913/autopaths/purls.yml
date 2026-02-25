@@ -36,3 +36,5 @@
 - pkg:pypi/autopaths@1.5.8
 - pkg:pypi/autopaths@1.5.9
 - pkg:pypi/autopaths@1.6.0
+- pkg:pypi/autopaths@1.6.2
+- pkg:pypi/autopaths@1.6.3
