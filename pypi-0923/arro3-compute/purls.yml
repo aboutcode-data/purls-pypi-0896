@@ -24,3 +24,5 @@
 - pkg:pypi/arro3-compute@0.6.3
 - pkg:pypi/arro3-compute@0.6.4
 - pkg:pypi/arro3-compute@0.6.5
+- pkg:pypi/arro3-compute@0.7.0
+- pkg:pypi/arro3-compute@0.8.0
