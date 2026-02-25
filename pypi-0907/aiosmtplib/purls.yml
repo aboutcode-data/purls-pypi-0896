@@ -32,3 +32,4 @@
 - pkg:pypi/aiosmtplib@4.0.1
 - pkg:pypi/aiosmtplib@4.0.2
 - pkg:pypi/aiosmtplib@5.0.0
+- pkg:pypi/aiosmtplib@5.1.0
