@@ -46,6 +46,8 @@
 - pkg:pypi/avtdl@2.1.1
 - pkg:pypi/avtdl@2.1.2
 - pkg:pypi/avtdl@2.1.3
+- pkg:pypi/avtdl@2.10.0
+- pkg:pypi/avtdl@2.10.1
 - pkg:pypi/avtdl@2.2.0
 - pkg:pypi/avtdl@2.2.1
 - pkg:pypi/avtdl@2.2.2

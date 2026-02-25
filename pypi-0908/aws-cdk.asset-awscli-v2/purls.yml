@@ -54,7 +54,14 @@
 - pkg:pypi/aws-cdk.asset-awscli-v2@2.0.154
 - pkg:pypi/aws-cdk.asset-awscli-v2@2.0.155
 - pkg:pypi/aws-cdk.asset-awscli-v2@2.0.156
+- pkg:pypi/aws-cdk.asset-awscli-v2@2.0.157
+- pkg:pypi/aws-cdk.asset-awscli-v2@2.0.158
+- pkg:pypi/aws-cdk.asset-awscli-v2@2.0.159
 - pkg:pypi/aws-cdk.asset-awscli-v2@2.0.16
+- pkg:pypi/aws-cdk.asset-awscli-v2@2.0.160
+- pkg:pypi/aws-cdk.asset-awscli-v2@2.0.161
+- pkg:pypi/aws-cdk.asset-awscli-v2@2.0.162
+- pkg:pypi/aws-cdk.asset-awscli-v2@2.0.163
 - pkg:pypi/aws-cdk.asset-awscli-v2@2.0.17
 - pkg:pypi/aws-cdk.asset-awscli-v2@2.0.18
 - pkg:pypi/aws-cdk.asset-awscli-v2@2.0.19
