@@ -51,7 +51,12 @@
 - pkg:pypi/alibabacloud-pai-dlc20201203@1.5.7
 - pkg:pypi/alibabacloud-pai-dlc20201203@1.6.0
 - pkg:pypi/alibabacloud-pai-dlc20201203@1.6.1
+- pkg:pypi/alibabacloud-pai-dlc20201203@1.6.10
 - pkg:pypi/alibabacloud-pai-dlc20201203@1.6.2
 - pkg:pypi/alibabacloud-pai-dlc20201203@1.6.3
 - pkg:pypi/alibabacloud-pai-dlc20201203@1.6.4
 - pkg:pypi/alibabacloud-pai-dlc20201203@1.6.5
+- pkg:pypi/alibabacloud-pai-dlc20201203@1.6.6
+- pkg:pypi/alibabacloud-pai-dlc20201203@1.6.7
+- pkg:pypi/alibabacloud-pai-dlc20201203@1.6.8
+- pkg:pypi/alibabacloud-pai-dlc20201203@1.6.9

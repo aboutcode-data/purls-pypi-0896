@@ -33,3 +33,5 @@
 - pkg:pypi/algebra-with-sympy@1.1.2
 - pkg:pypi/algebra-with-sympy@1.1.2rc0
 - pkg:pypi/algebra-with-sympy@1.1.3
+- pkg:pypi/algebra-with-sympy@1.2.0.dev0
+- pkg:pypi/algebra-with-sympy@1.2.0.dev1
