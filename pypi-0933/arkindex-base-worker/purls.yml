@@ -125,3 +125,8 @@
 - pkg:pypi/arkindex-base-worker@0.5.1rc1
 - pkg:pypi/arkindex-base-worker@0.5.1rc2
 - pkg:pypi/arkindex-base-worker@0.5.1rc3
+- pkg:pypi/arkindex-base-worker@0.5.2a1
+- pkg:pypi/arkindex-base-worker@0.5.2a2
+- pkg:pypi/arkindex-base-worker@0.5.2b1
+- pkg:pypi/arkindex-base-worker@0.5.2b2
+- pkg:pypi/arkindex-base-worker@0.5.2b3

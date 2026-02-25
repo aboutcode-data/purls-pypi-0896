@@ -79,3 +79,5 @@
 - pkg:pypi/argus-server@2.3.0
 - pkg:pypi/argus-server@2.4.0
 - pkg:pypi/argus-server@2.5.0
+- pkg:pypi/argus-server@2.6.0
+- pkg:pypi/argus-server@2.7.0

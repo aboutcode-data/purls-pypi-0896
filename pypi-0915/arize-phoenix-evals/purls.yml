@@ -63,6 +63,7 @@
 - pkg:pypi/arize-phoenix-evals@2.0.0
 - pkg:pypi/arize-phoenix-evals@2.0.1
 - pkg:pypi/arize-phoenix-evals@2.1.0
+- pkg:pypi/arize-phoenix-evals@2.10.0
 - pkg:pypi/arize-phoenix-evals@2.2.0
 - pkg:pypi/arize-phoenix-evals@2.3.0
 - pkg:pypi/arize-phoenix-evals@2.4.0
@@ -70,3 +71,6 @@
 - pkg:pypi/arize-phoenix-evals@2.6.0
 - pkg:pypi/arize-phoenix-evals@2.6.1
 - pkg:pypi/arize-phoenix-evals@2.7.0
+- pkg:pypi/arize-phoenix-evals@2.7.1
+- pkg:pypi/arize-phoenix-evals@2.8.0
+- pkg:pypi/arize-phoenix-evals@2.9.0
