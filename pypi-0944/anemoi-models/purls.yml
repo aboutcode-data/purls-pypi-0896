@@ -2,6 +2,10 @@
 - pkg:pypi/anemoi-models@0.10.0
 - pkg:pypi/anemoi-models@0.11.0
 - pkg:pypi/anemoi-models@0.11.1
+- pkg:pypi/anemoi-models@0.11.2
+- pkg:pypi/anemoi-models@0.11.3
+- pkg:pypi/anemoi-models@0.12.0
+- pkg:pypi/anemoi-models@0.12.1
 - pkg:pypi/anemoi-models@0.2.0
 - pkg:pypi/anemoi-models@0.2.1
 - pkg:pypi/anemoi-models@0.3.0

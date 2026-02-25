@@ -31,3 +31,5 @@
 - pkg:pypi/android-cli@1.18.0
 - pkg:pypi/android-cli@1.18.1
 - pkg:pypi/android-cli@1.18.2
+- pkg:pypi/android-cli@1.18.3
+- pkg:pypi/android-cli@1.18.4
