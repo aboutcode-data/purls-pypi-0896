@@ -122,6 +122,12 @@
 - pkg:pypi/acquire@3.20.dev9
 - pkg:pypi/acquire@3.21
 - pkg:pypi/acquire@3.22.dev1
+- pkg:pypi/acquire@3.22.dev2
+- pkg:pypi/acquire@3.22.dev3
+- pkg:pypi/acquire@3.22.dev4
+- pkg:pypi/acquire@3.22.dev5
+- pkg:pypi/acquire@3.22.dev6
+- pkg:pypi/acquire@3.22.dev7
 - pkg:pypi/acquire@3.3
 - pkg:pypi/acquire@3.3.dev10
 - pkg:pypi/acquire@3.3.dev11
