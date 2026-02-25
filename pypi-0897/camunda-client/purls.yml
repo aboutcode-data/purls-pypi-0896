@@ -8,6 +8,7 @@
 - pkg:pypi/camunda-client@0.11.0
 - pkg:pypi/camunda-client@0.11.1
 - pkg:pypi/camunda-client@0.11.2
+- pkg:pypi/camunda-client@0.12.0
 - pkg:pypi/camunda-client@0.3.1
 - pkg:pypi/camunda-client@0.3.2
 - pkg:pypi/camunda-client@0.3.3
