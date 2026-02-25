@@ -14,3 +14,6 @@
 - pkg:pypi/aircot@3.0.0
 - pkg:pypi/aircot@3.0.0b1
 - pkg:pypi/aircot@3.0.1
+- pkg:pypi/aircot@4.0.0
+- pkg:pypi/aircot@4.0.1
+- pkg:pypi/aircot@4.0.2

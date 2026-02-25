@@ -74,6 +74,11 @@
 - pkg:pypi/airbyte-source-iterable@0.6.51.dev202510101228
 - pkg:pypi/airbyte-source-iterable@0.6.52
 - pkg:pypi/airbyte-source-iterable@0.6.53
+- pkg:pypi/airbyte-source-iterable@0.6.53.dev202512112036
+- pkg:pypi/airbyte-source-iterable@0.6.53.dev202512171403
+- pkg:pypi/airbyte-source-iterable@0.6.53.dev202601262250
+- pkg:pypi/airbyte-source-iterable@0.6.53.dev202602131531
+- pkg:pypi/airbyte-source-iterable@0.6.54.dev202602171809
 - pkg:pypi/airbyte-source-iterable@0.6.6
 - pkg:pypi/airbyte-source-iterable@0.6.7
 - pkg:pypi/airbyte-source-iterable@0.6.8
