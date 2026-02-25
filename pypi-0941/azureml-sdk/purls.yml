@@ -102,6 +102,7 @@
 - pkg:pypi/azureml-sdk@1.6.0
 - pkg:pypi/azureml-sdk@1.60.0
 - pkg:pypi/azureml-sdk@1.61.0
+- pkg:pypi/azureml-sdk@1.62.0
 - pkg:pypi/azureml-sdk@1.7.0
 - pkg:pypi/azureml-sdk@1.7.0.post1
 - pkg:pypi/azureml-sdk@1.8.0

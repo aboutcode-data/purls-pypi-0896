@@ -1,6 +1,13 @@
 - pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b1
+- pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b10
+- pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b11
+- pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b12
+- pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b13
+- pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b14
 - pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b2
 - pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b3
 - pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b4
 - pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b5
 - pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b7
+- pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b8
+- pkg:pypi/azure-ai-agentserver-agentframework@1.0.0b9
