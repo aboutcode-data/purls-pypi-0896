@@ -32,3 +32,10 @@
 - pkg:pypi/agave-pyclient@1.8.0rc1
 - pkg:pypi/agave-pyclient@1.8.0rc2
 - pkg:pypi/agave-pyclient@1.8.1
+- pkg:pypi/agave-pyclient@1.9.0
+- pkg:pypi/agave-pyclient@1.9.0rc0
+- pkg:pypi/agave-pyclient@1.9.0rc1
+- pkg:pypi/agave-pyclient@1.9.0rc3
+- pkg:pypi/agave-pyclient@1.9.0rc4
+- pkg:pypi/agave-pyclient@1.9.0rc5
+- pkg:pypi/agave-pyclient@1.9.0rc7

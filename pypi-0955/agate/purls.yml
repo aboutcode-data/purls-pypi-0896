@@ -14,6 +14,8 @@
 - pkg:pypi/agate@1.11.0
 - pkg:pypi/agate@1.12.0
 - pkg:pypi/agate@1.13.0
+- pkg:pypi/agate@1.14.0
+- pkg:pypi/agate@1.14.1
 - pkg:pypi/agate@1.2.0
 - pkg:pypi/agate@1.2.1
 - pkg:pypi/agate@1.2.2
