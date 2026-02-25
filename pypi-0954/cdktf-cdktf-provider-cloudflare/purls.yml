@@ -124,6 +124,7 @@
 - pkg:pypi/cdktf-cdktf-provider-cloudflare@13.7.0
 - pkg:pypi/cdktf-cdktf-provider-cloudflare@13.8.0
 - pkg:pypi/cdktf-cdktf-provider-cloudflare@13.9.0
+- pkg:pypi/cdktf-cdktf-provider-cloudflare@13.9.1
 - pkg:pypi/cdktf-cdktf-provider-cloudflare@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-cloudflare@2.0.1
 - pkg:pypi/cdktf-cdktf-provider-cloudflare@2.0.10

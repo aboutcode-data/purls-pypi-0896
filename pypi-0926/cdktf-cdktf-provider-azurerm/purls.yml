@@ -322,6 +322,7 @@
 - pkg:pypi/cdktf-cdktf-provider-azurerm@14.21.0
 - pkg:pypi/cdktf-cdktf-provider-azurerm@14.22.0
 - pkg:pypi/cdktf-cdktf-provider-azurerm@14.23.0
+- pkg:pypi/cdktf-cdktf-provider-azurerm@14.23.1
 - pkg:pypi/cdktf-cdktf-provider-azurerm@14.3.0
 - pkg:pypi/cdktf-cdktf-provider-azurerm@14.4.0
 - pkg:pypi/cdktf-cdktf-provider-azurerm@14.5.0

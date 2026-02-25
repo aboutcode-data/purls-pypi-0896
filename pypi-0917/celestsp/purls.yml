@@ -27,7 +27,13 @@
 - pkg:pypi/celestsp@0.2.32
 - pkg:pypi/celestsp@0.2.33
 - pkg:pypi/celestsp@0.2.34
+- pkg:pypi/celestsp@0.2.35
+- pkg:pypi/celestsp@0.2.36
+- pkg:pypi/celestsp@0.2.37
+- pkg:pypi/celestsp@0.2.38
+- pkg:pypi/celestsp@0.2.39
 - pkg:pypi/celestsp@0.2.4
+- pkg:pypi/celestsp@0.2.40
 - pkg:pypi/celestsp@0.2.5
 - pkg:pypi/celestsp@0.2.6
 - pkg:pypi/celestsp@0.2.7

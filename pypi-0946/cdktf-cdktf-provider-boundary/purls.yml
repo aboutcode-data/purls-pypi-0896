@@ -12,6 +12,7 @@
 - pkg:pypi/cdktf-cdktf-provider-boundary@10.0.0
 - pkg:pypi/cdktf-cdktf-provider-boundary@10.1.0
 - pkg:pypi/cdktf-cdktf-provider-boundary@10.1.1
+- pkg:pypi/cdktf-cdktf-provider-boundary@10.1.2
 - pkg:pypi/cdktf-cdktf-provider-boundary@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-boundary@2.0.1
 - pkg:pypi/cdktf-cdktf-provider-boundary@3.0.0
