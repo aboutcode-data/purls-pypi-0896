@@ -1,0 +1,15 @@
+- pkg:pypi/cuda-bindings@11.8.6
+- pkg:pypi/cuda-bindings@11.8.7
+- pkg:pypi/cuda-bindings@12.8.0
+- pkg:pypi/cuda-bindings@12.9.0
+- pkg:pypi/cuda-bindings@12.9.1
+- pkg:pypi/cuda-bindings@12.9.2
+- pkg:pypi/cuda-bindings@12.9.3
+- pkg:pypi/cuda-bindings@12.9.4
+- pkg:pypi/cuda-bindings@12.9.5
+- pkg:pypi/cuda-bindings@13.0.0
+- pkg:pypi/cuda-bindings@13.0.1
+- pkg:pypi/cuda-bindings@13.0.2
+- pkg:pypi/cuda-bindings@13.0.3
+- pkg:pypi/cuda-bindings@13.1.0
+- pkg:pypi/cuda-bindings@13.1.1
