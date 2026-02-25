@@ -24,3 +24,5 @@
 - pkg:pypi/astra-haystack@2.1.0
 - pkg:pypi/astra-haystack@3.0.0
 - pkg:pypi/astra-haystack@3.0.1
+- pkg:pypi/astra-haystack@3.1.0
+- pkg:pypi/astra-haystack@4.0.0
