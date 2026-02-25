@@ -37,6 +37,9 @@
 - pkg:pypi/blackfire@1.20.32
 - pkg:pypi/blackfire@1.20.33
 - pkg:pypi/blackfire@1.20.34
+- pkg:pypi/blackfire@1.20.35
+- pkg:pypi/blackfire@1.20.36
+- pkg:pypi/blackfire@1.20.37
 - pkg:pypi/blackfire@1.20.4
 - pkg:pypi/blackfire@1.20.5
 - pkg:pypi/blackfire@1.20.6
