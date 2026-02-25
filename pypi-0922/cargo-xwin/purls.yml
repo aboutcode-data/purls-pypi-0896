@@ -50,6 +50,10 @@
 - pkg:pypi/cargo-xwin@0.20.0
 - pkg:pypi/cargo-xwin@0.20.1
 - pkg:pypi/cargo-xwin@0.20.2
+- pkg:pypi/cargo-xwin@0.21.0
+- pkg:pypi/cargo-xwin@0.21.2
+- pkg:pypi/cargo-xwin@0.21.3
+- pkg:pypi/cargo-xwin@0.21.4
 - pkg:pypi/cargo-xwin@0.5.0
 - pkg:pypi/cargo-xwin@0.6.0
 - pkg:pypi/cargo-xwin@0.7.0
