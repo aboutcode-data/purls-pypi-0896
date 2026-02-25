@@ -1,0 +1,6 @@
+- pkg:pypi/cleverhans@2.1.0
+- pkg:pypi/cleverhans@3.0.0
+- pkg:pypi/cleverhans@3.0.0.post0
+- pkg:pypi/cleverhans@3.0.1
+- pkg:pypi/cleverhans@3.1.0
+- pkg:pypi/cleverhans@4.0.0
