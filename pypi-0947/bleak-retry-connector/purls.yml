@@ -97,3 +97,4 @@
 - pkg:pypi/bleak-retry-connector@4.4.2
 - pkg:pypi/bleak-retry-connector@4.4.3
 - pkg:pypi/bleak-retry-connector@4.4.4
+- pkg:pypi/bleak-retry-connector@4.5.0
