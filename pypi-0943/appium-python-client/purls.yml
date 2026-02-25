@@ -116,3 +116,5 @@
 - pkg:pypi/appium-python-client@5.2.2
 - pkg:pypi/appium-python-client@5.2.3
 - pkg:pypi/appium-python-client@5.2.4
+- pkg:pypi/appium-python-client@5.2.5
+- pkg:pypi/appium-python-client@5.2.6

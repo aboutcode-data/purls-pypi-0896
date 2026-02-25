@@ -130,3 +130,5 @@
 - pkg:pypi/ara@1.7.3.0rc3
 - pkg:pypi/ara@1.7.4
 - pkg:pypi/ara@1.7.4.0rc1
+- pkg:pypi/ara@1.7.5rc1
+- pkg:pypi/ara@1.7.5rc2
