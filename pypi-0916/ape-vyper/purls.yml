@@ -39,6 +39,7 @@
 - pkg:pypi/ape-vyper@0.7.1
 - pkg:pypi/ape-vyper@0.8.0
 - pkg:pypi/ape-vyper@0.8.1
+- pkg:pypi/ape-vyper@0.8.10
 - pkg:pypi/ape-vyper@0.8.2
 - pkg:pypi/ape-vyper@0.8.3
 - pkg:pypi/ape-vyper@0.8.4
