@@ -1,1 +1,3 @@
 - pkg:pypi/ams-adf-reader@0.2.2
+- pkg:pypi/ams-adf-reader@0.4.0
+- pkg:pypi/ams-adf-reader@1.0.0
