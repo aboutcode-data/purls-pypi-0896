@@ -1,4 +1,5 @@
 - pkg:pypi/bdew-datetimes@0.10.0
+- pkg:pypi/bdew-datetimes@0.11.0
 - pkg:pypi/bdew-datetimes@0.2.0
 - pkg:pypi/bdew-datetimes@0.3.10
 - pkg:pypi/bdew-datetimes@0.3.11
