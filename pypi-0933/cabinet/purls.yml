@@ -18,6 +18,9 @@
 - pkg:pypi/cabinet@1%212.1.4
 - pkg:pypi/cabinet@1%212.1.5
 - pkg:pypi/cabinet@1%212.1.6
+- pkg:pypi/cabinet@1%212.1.7
+- pkg:pypi/cabinet@1%212.1.8
+- pkg:pypi/cabinet@1%212.2.0
 - pkg:pypi/cabinet@2023.11.1.2
 - pkg:pypi/cabinet@2023.3.12.1
 - pkg:pypi/cabinet@2023.3.16.1

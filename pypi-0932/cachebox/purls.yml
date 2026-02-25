@@ -45,3 +45,6 @@
 - pkg:pypi/cachebox@5.0.3
 - pkg:pypi/cachebox@5.0.4
 - pkg:pypi/cachebox@5.1.0
+- pkg:pypi/cachebox@5.2.0
+- pkg:pypi/cachebox@5.2.1
+- pkg:pypi/cachebox@5.2.2
