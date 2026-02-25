@@ -7,6 +7,9 @@
 - pkg:pypi/causal-testing-framework@13.0.0
 - pkg:pypi/causal-testing-framework@13.1.0
 - pkg:pypi/causal-testing-framework@13.2.0
+- pkg:pypi/causal-testing-framework@14.0.0
+- pkg:pypi/causal-testing-framework@14.0.1
+- pkg:pypi/causal-testing-framework@14.1.0
 - pkg:pypi/causal-testing-framework@2.0.7
 - pkg:pypi/causal-testing-framework@2.0.8
 - pkg:pypi/causal-testing-framework@3.0.0

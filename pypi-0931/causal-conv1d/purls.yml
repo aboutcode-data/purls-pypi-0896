@@ -16,3 +16,4 @@
 - pkg:pypi/causal-conv1d@1.5.1
 - pkg:pypi/causal-conv1d@1.5.2
 - pkg:pypi/causal-conv1d@1.5.3.post1
+- pkg:pypi/causal-conv1d@1.6.0

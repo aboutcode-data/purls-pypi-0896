@@ -43,6 +43,8 @@
 - pkg:pypi/cat-win@1.10.2
 - pkg:pypi/cat-win@1.10.3
 - pkg:pypi/cat-win@1.10.4
+- pkg:pypi/cat-win@1.10.5
+- pkg:pypi/cat-win@1.10.6
 - pkg:pypi/cat-win@1.2.0
 - pkg:pypi/cat-win@1.3.0
 - pkg:pypi/cat-win@1.3.1
