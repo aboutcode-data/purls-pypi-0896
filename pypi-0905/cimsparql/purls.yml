@@ -101,6 +101,7 @@
 - pkg:pypi/cimsparql@9.10.0
 - pkg:pypi/cimsparql@9.11.0
 - pkg:pypi/cimsparql@9.11.1
+- pkg:pypi/cimsparql@9.11.2
 - pkg:pypi/cimsparql@9.2.0
 - pkg:pypi/cimsparql@9.2.1
 - pkg:pypi/cimsparql@9.3.0

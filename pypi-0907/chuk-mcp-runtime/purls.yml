@@ -45,6 +45,9 @@
 - pkg:pypi/chuk-mcp-runtime@0.10.4
 - pkg:pypi/chuk-mcp-runtime@0.10.5
 - pkg:pypi/chuk-mcp-runtime@0.10.6
+- pkg:pypi/chuk-mcp-runtime@0.10.7
+- pkg:pypi/chuk-mcp-runtime@0.10.8
+- pkg:pypi/chuk-mcp-runtime@0.11.1
 - pkg:pypi/chuk-mcp-runtime@0.2
 - pkg:pypi/chuk-mcp-runtime@0.2.1
 - pkg:pypi/chuk-mcp-runtime@0.2.2
