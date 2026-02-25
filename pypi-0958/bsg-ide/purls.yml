@@ -91,6 +91,8 @@
 - pkg:pypi/bsg-ide@4.4.3
 - pkg:pypi/bsg-ide@4.5
 - pkg:pypi/bsg-ide@4.6.1
+- pkg:pypi/bsg-ide@4.6.2
+- pkg:pypi/bsg-ide@4.6.4
 - pkg:pypi/bsg-ide@4.7
 - pkg:pypi/bsg-ide@4.8
 - pkg:pypi/bsg-ide@4.9
