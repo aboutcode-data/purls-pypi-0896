@@ -52,6 +52,12 @@
 - pkg:pypi/cfclient@2024.7
 - pkg:pypi/cfclient@2024.7.1
 - pkg:pypi/cfclient@2024.7rc1
+- pkg:pypi/cfclient@2025.12
+- pkg:pypi/cfclient@2025.12.1
+- pkg:pypi/cfclient@2025.12.1rc1
+- pkg:pypi/cfclient@2025.12.1rc2
+- pkg:pypi/cfclient@2025.12.1rc3
+- pkg:pypi/cfclient@2025.12rc1
 - pkg:pypi/cfclient@2025.2
 - pkg:pypi/cfclient@2025.9
 - pkg:pypi/cfclient@2025.9rc1

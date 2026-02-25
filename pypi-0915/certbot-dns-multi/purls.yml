@@ -26,6 +26,10 @@
 - pkg:pypi/certbot-dns-multi@4.24.0.dev0
 - pkg:pypi/certbot-dns-multi@4.25.1
 - pkg:pypi/certbot-dns-multi@4.27.0
+- pkg:pypi/certbot-dns-multi@4.30.1
+- pkg:pypi/certbot-dns-multi@4.32.0
+- pkg:pypi/certbot-dns-multi@4.32.0.dev0
+- pkg:pypi/certbot-dns-multi@4.32.1
 - pkg:pypi/certbot-dns-multi@4.9.0
 - pkg:pypi/certbot-dns-multi@4.9.0.1
 - pkg:pypi/certbot-dns-multi@4.9.0.dev0
