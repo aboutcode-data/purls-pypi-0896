@@ -61,4 +61,7 @@
 - pkg:pypi/apache-airflow-providers-smtp@2.3.2rc1
 - pkg:pypi/apache-airflow-providers-smtp@2.4.0
 - pkg:pypi/apache-airflow-providers-smtp@2.4.0rc1
+- pkg:pypi/apache-airflow-providers-smtp@2.4.1
 - pkg:pypi/apache-airflow-providers-smtp@2.4.1rc1
+- pkg:pypi/apache-airflow-providers-smtp@2.4.2
+- pkg:pypi/apache-airflow-providers-smtp@2.4.2rc1

@@ -41,3 +41,10 @@
 - pkg:pypi/apache-airflow-task-sdk@1.1.4
 - pkg:pypi/apache-airflow-task-sdk@1.1.4rc1
 - pkg:pypi/apache-airflow-task-sdk@1.1.4rc2
+- pkg:pypi/apache-airflow-task-sdk@1.1.5
+- pkg:pypi/apache-airflow-task-sdk@1.1.5rc1
+- pkg:pypi/apache-airflow-task-sdk@1.1.6
+- pkg:pypi/apache-airflow-task-sdk@1.1.6rc1
+- pkg:pypi/apache-airflow-task-sdk@1.1.7
+- pkg:pypi/apache-airflow-task-sdk@1.1.7rc1
+- pkg:pypi/apache-airflow-task-sdk@1.1.7rc2

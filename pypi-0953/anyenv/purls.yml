@@ -43,6 +43,7 @@
 - pkg:pypi/anyenv@1.11.3
 - pkg:pypi/anyenv@1.11.4
 - pkg:pypi/anyenv@1.11.5
+- pkg:pypi/anyenv@1.11.6
 - pkg:pypi/anyenv@1.2.1
 - pkg:pypi/anyenv@1.2.2
 - pkg:pypi/anyenv@1.2.3
@@ -78,3 +79,17 @@
 - pkg:pypi/anyenv@1.9.6
 - pkg:pypi/anyenv@1.9.7
 - pkg:pypi/anyenv@1.9.8
+- pkg:pypi/anyenv@2.0.0
+- pkg:pypi/anyenv@2.0.1
+- pkg:pypi/anyenv@2.0.10
+- pkg:pypi/anyenv@2.0.12
+- pkg:pypi/anyenv@2.0.13
+- pkg:pypi/anyenv@2.0.14
+- pkg:pypi/anyenv@2.0.15
+- pkg:pypi/anyenv@2.0.2
+- pkg:pypi/anyenv@2.0.3
+- pkg:pypi/anyenv@2.0.4
+- pkg:pypi/anyenv@2.0.5
+- pkg:pypi/anyenv@2.0.7
+- pkg:pypi/anyenv@2.0.8
+- pkg:pypi/anyenv@2.0.9

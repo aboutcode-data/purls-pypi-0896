@@ -117,4 +117,9 @@
 - pkg:pypi/apache-airflow-providers-sftp@5.4.2rc1
 - pkg:pypi/apache-airflow-providers-sftp@5.5.0
 - pkg:pypi/apache-airflow-providers-sftp@5.5.0rc1
+- pkg:pypi/apache-airflow-providers-sftp@5.5.1
 - pkg:pypi/apache-airflow-providers-sftp@5.5.1rc1
+- pkg:pypi/apache-airflow-providers-sftp@5.6.0
+- pkg:pypi/apache-airflow-providers-sftp@5.6.0rc1
+- pkg:pypi/apache-airflow-providers-sftp@5.7.0
+- pkg:pypi/apache-airflow-providers-sftp@5.7.0rc1

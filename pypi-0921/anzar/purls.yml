@@ -17,7 +17,10 @@
 - pkg:pypi/anzar@0.2.13
 - pkg:pypi/anzar@0.2.14
 - pkg:pypi/anzar@0.2.17
+- pkg:pypi/anzar@0.2.18
+- pkg:pypi/anzar@0.2.19
 - pkg:pypi/anzar@0.2.2
+- pkg:pypi/anzar@0.2.20
 - pkg:pypi/anzar@0.2.3
 - pkg:pypi/anzar@0.2.4
 - pkg:pypi/anzar@0.2.5

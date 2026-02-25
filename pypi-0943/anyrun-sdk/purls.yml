@@ -6,6 +6,8 @@
 - pkg:pypi/anyrun-sdk@1.10.9
 - pkg:pypi/anyrun-sdk@1.11.10
 - pkg:pypi/anyrun-sdk@1.11.11
+- pkg:pypi/anyrun-sdk@1.12.11
+- pkg:pypi/anyrun-sdk@1.13.11
 - pkg:pypi/anyrun-sdk@1.2.1
 - pkg:pypi/anyrun-sdk@1.2.2
 - pkg:pypi/anyrun-sdk@1.2.3
